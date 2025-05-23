@@ -21,7 +21,7 @@ This is the repository for all the code for my research on an empirical evaluati
 The repository includes all the code to create the figures in the document and run all the simulations. The simulations were run over 500 Monte Carlo iterations for each experiment. Experiments were spread across 5 primary distribution pairs and 3 different dimensionalities (three, eight, and 15). 
 
 
--  🌎 [Global Earth Sytems](https://github.com/rj-may/GES)  
+-  🌎 [Global Earth Systems](https://github.com/rj-may/GES)  
 This is the code for my co-authored paper called "Effect of methane mitigation on global temperature under a permafrost feedback." The paper is published as a part of Global Environmental Changes Advances [here](https://doi.org/10.1016/j.gecadv.2024.100005).
 
 This involved using sci-py and systems of non-linear differential equations to estimate the effect of different methane mitigation scenarios. Then, visualizing them with a various plots. 
