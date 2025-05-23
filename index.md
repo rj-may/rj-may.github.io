@@ -22,14 +22,14 @@ The repository includes all the code to create the figures in the document and r
 
 
 -  🌎 [Global Earth Sytems](https://github.com/rj-may/GES)  
-This is the code for my co-authored paper called "Effect of methane mitigation on global temperature under a permafrost feedback." The paper as a part of Global Environmental Changes Advances [here](https://doi.org/10.1016/j.gecadv.2024.100005).
+This is the code for my co-authored paper called "Effect of methane mitigation on global temperature under a permafrost feedback." The paper is published as a part of Global Environmental Changes Advances [here](https://doi.org/10.1016/j.gecadv.2024.100005).
 
-This involved using sci-py and systems of non-linear differential equations to estimate the effect of different methane mitigation scenarios.
+This involved using sci-py and systems of non-linear differential equations to estimate the effect of different methane mitigation scenarios. Then, visualizing them with a various plots. 
 
 - 🪐 [Yoda Chat Bot](https://github.com/rj-may/yoda_chat)  
-Fine-tuned language model that answers Star Wars trivia questions in Yoda’s voice. Uses a vector database to search over trivia questions to help answers Star Wars questions.
+Fine-tuned language model that answers Star Wars trivia questions in Yoda’s voice. Uses a vector database to search over trivia questions to help give context Star Wars questions.
   
-Includes LoRA training via Unsloth. Inference is done locally with Ollama. 
+Includes LoRA training via Unsloth and how gguf file was created. Inference is performed locally with Ollama. 
 
 
 ## Other work
