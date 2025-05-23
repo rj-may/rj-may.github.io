@@ -6,7 +6,7 @@ title: My Portfolio
 # Welcome to My Portfolio
 
 I completed a Master's in Statisitics at Utah State University in 2025. 
-For my LinkedIn: see [linkedin.com/in/riley-may-usu/](https://www.linkedin.com/in/riley-may-usu/]
+For my LinkedIn: see [linkedin.com/in/riley-may-usu/](https://www.linkedin.com/in/riley-may-usu/)
 
 
 Here are some of the projects I have been working on: 
