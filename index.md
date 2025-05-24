@@ -12,7 +12,7 @@ title: My Portfolio
 
 Master's in Statistics, Utah State University (2025)  
 [LinkedIn](https://www.linkedin.com/in/riley-may-usu/)  
-Focus: Statistical modeling, ML evaluation, and lightweight LLMs
+Focus: statistical modeling, machine learning, and lightweight LLMs
 
 
 
