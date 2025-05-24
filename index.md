@@ -3,7 +3,7 @@ layout: default
 title: My Portfolio
 ---
 
-# Welcome to My Portfolio
+# Welcome to My GitHub Portfolio
 
 
 
@@ -26,6 +26,10 @@ This is the repository for all the code for my research on an empirical evaluati
 
 The repository includes all the code to create the figures in the document and run all the simulations. The simulations were run over 500 Monte Carlo iterations for each experiment. Experiments were spread across 5 primary distribution pairs and 3 different dimensionalities (three, eight, and 15). 
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/84844492-fdc9-4e50-89d9-0482962c409c" width="300">
+</p>
+
 
 ### Global Earth Systems Modeling
 [rj-may/GES](https://github.com/rj-may/GES)
@@ -34,15 +38,27 @@ This is the code for my co-authored paper called "Effect of methane mitigation o
 
 This involved using sci-py and systems of non-linear differential equations to estimate the effect of different methane mitigation scenarios. Then, visualizing them with a various plots. 
 
-
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e553c0a8-9c75-42b2-a7d5-cd79cea4c91c" width="700">
+</p>
 
 ### Yoda Chatbot – LLM Fine-Tuning 
 [rj-may/yoda_chat](https://github.com/rj-may/yoda_chat)
 
-Fine-tuned language model that answers Star Wars trivia questions in Yoda’s voice. Uses a vector database to search over trivia questions to help give context Star Wars questions.
+Fine-tuned language model that answers Star Wars trivia questions in Yoda’s voice. Uses a vector database to search over 609 trivia questions to help give context Star Wars questions.
+
   
-Includes LoRA training via Unsloth and how gguf file was created. Inference is performed locally with Ollama. 
+Includes LoRA training via Unsloth and how gguf file was created. Inference is performed locally with Ollama. The fine-tuned model model was Meta-Llama-3.1-8B-Instruct-bnb-4bit
+
+
+#### Example 
+Prompt: 
+What is the name of the creature that capture Luke on the ice planet Hoth?
+
+Answer:
+"A trap, they set. Wampa's lair, young Luke falls into. Savage and fierce, a creature it is."
+
+
 
 
 # Other work
