@@ -3,8 +3,11 @@ layout: default
 title: My Portfolio
 ---
 
-# Welcome to My GitHub Portfolio
+<p align="left">
+<img src="https://github.com/user-attachments/assets/41cd69fb-edcc-4a34-b09a-e368f934bf4c" width="200">
+</p>
 
+# Welcome to My GitHub Portfolio
 
 
 Master's in Statistics, Utah State University (2025)  
@@ -66,3 +69,6 @@ Answer:
 [MarchMaddness2025](https://github.com/rj-may/MarchMadness2025)
 
 Here was  fun side project. I tried to predict the outcome of March Madness games. It involed a lot of data cleaning and reformatting. Ultimately, I combined 3 classifications methods (XG Boost, random forest, and logistic classifier) to vote for the winners of the games. 
+
+
+
