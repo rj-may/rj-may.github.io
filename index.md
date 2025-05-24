@@ -68,7 +68,7 @@ Answer:
 
 # Other work
 ### March Madness
-[rj-may/MarchMaddess2025](https://github.com/rj-may/MarchMadness2025)
+[rj-may/MarchMadess2025](https://github.com/rj-may/MarchMadness2025)
 
 Here was  fun side project. I tried to predict the outcome of March Madness games. It involed a lot of data cleaning and reformatting. Ultimately, I combined 3 classifications methods (XG Boost, random forest, and logistic classifier) to vote for the winners of the games. 
 
