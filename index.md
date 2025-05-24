@@ -7,7 +7,7 @@ title: My Portfolio
 <img src="https://github.com/user-attachments/assets/41cd69fb-edcc-4a34-b09a-e368f934bf4c" width="200">
 </p>
 
-# Welcome to My GitHub Portfolio
+# Welcome to my GitHub portfolio
 
 
 Master's in Statistics, Utah State University (2025)   
