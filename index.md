@@ -10,9 +10,11 @@ title: My Portfolio
 # Welcome to My GitHub Portfolio
 
 
-Master's in Statistics, Utah State University (2025)  
-[LinkedIn](https://www.linkedin.com/in/riley-may-usu/)  
-Focus: statistical modeling, machine learning, and lightweight LLMs
+Master's in Statistics, Utah State University (2025)   
+[LinkedIn](https://www.linkedin.com/in/riley-may-usu/)   
+All GitHub repositories: [https://github.com/rj-may](https://github.com/rj-may)  
+Focus: statistical modeling, machine learning, and lightweight LLMs.
+
 
 
 
