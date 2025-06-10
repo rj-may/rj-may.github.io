@@ -31,6 +31,9 @@ This is the repository for all the code for my research on an empirical evaluati
 
 The repository includes all the code to create the figures in the document and run all the simulations. The simulations were run over 500 Monte Carlo iterations for each experiment. Experiments were spread across 5 primary distribution pairs and 3 different dimensionalities (three, eight, and 15). 
 
+The paper pending approval is here [thesis.pdf](https://github.com/user-attachments/files/20680357/thesis_pending.pdf)
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/84844492-fdc9-4e50-89d9-0482962c409c" width="300">
 </p>
