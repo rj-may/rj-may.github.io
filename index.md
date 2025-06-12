@@ -32,7 +32,7 @@ This is the repository for all the code for my research on an empirical evaluati
 
 The repository includes all the code to create the figures in the document and run all the simulations. The simulations were run over 500 Monte Carlo iterations for each experiment. Experiments were spread across 5 primary distribution pairs and 3 different dimensionalities (three, eight, and 15). 
 
-For more technical details [check out my paper and poster.](/poster_BER/)
+For more technical details [check out my paper and poster.](/BER_details/)
 
 
 
