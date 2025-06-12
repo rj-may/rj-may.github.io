@@ -11,7 +11,7 @@ permalink: /BER_details/
 the narrowest bounds that have a validity greater than 0.5. These experiments are averaged over 500 Monte Carlo iterations.
 
 
-This table demonstrates that as dimensionality increases the bounds become unreliable. The only bounds that capture the BER in high dimensions are too wide to provide meaninfully provide where the BER is. 
+This table demonstrates that as dimensionality increases the bounds become unreliable. The only bounds that capture the BER in high dimensions are too wide to provide meaninfully provide where the BER is.  Another significant takewaway from these research is that althought the data from which the distributions were sampled from were from normal, the parametric Bhattacharyya bound with the normal assumption still is able to bound the BER.
 
 ## The paper
 
