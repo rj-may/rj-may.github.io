@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Riley's Portfolio of Work
+description: A collection of data science and statistics projects
 ---
 
 <p align="left">
