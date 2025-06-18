@@ -4,9 +4,17 @@ title: Bayes Error Rate futher details
 permalink: /BER_details/
 ---
 
-# Table of key results
+# Key results
+The 4 different experiments are outlining how the different BER bounds were tested is outlined here. All other dimensions were sampled from equivalent distributions.  The following table summarizes the key results with the least and most amount of samples. 
 
-![image](https://github.com/user-attachments/assets/eeec758b-7045-4f15-8b91-221681eec041)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/78d4b5c4-ef18-4a1b-9232-7bdb6115005e" alt="four_cases_grid" width="600"/>
+</p>
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/eeec758b-7045-4f15-8b91-221681eec041" alt="Tablular Results" width="900"/>
+ </p>
+
  Table: Validation and width results across different sample sizes and dimensions for four different experiments. Highlighted are
 the narrowest bounds that have a validity greater than 0.5. These experiments are averaged over 500 Monte Carlo iterations.
 
