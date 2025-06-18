@@ -23,6 +23,15 @@ the narrowest bounds that have a validity greater than 0.5. These experiments ar
 
 This table demonstrates that as dimensionality increases the bounds become unreliable. The only bounds that capture the BER in high dimensions are too wide to provide meaninfully provide where the BER is.  Another significant takewaway from these research is that althought the data from which the distributions were sampled from were from normal, the parametric Bhattacharyya bound with the normal assumption still is able to bound the BER.
 
+## The poster
+
+For the poster presented at the University of Utah AI summit, you can download it here [poster.pdf.](https://github.com/user-attachments/files/20787933/poster_U_AI_summit.-.updated.pdf)
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/4295efb5-65cf-447f-a069-4efaf518d0ab" alt="Poster preview" width="200"/>
+ </p>
+
+
 ## The paper
 
 The paper pending approval is here [thesis.pdf](https://github.com/user-attachments/files/20680357/thesis_pending.pdf)
