@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Key Results of Bayes Error Rate Research  
+description: Poster presentation Empirical Evaluation of Bayes Error Rate Bounds in Binary Classification
 permalink: /BER_details/
 ---
 
