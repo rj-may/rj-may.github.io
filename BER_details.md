@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Bayes Error Rate futher details
+title: Key Results of Bayes Error Rate Research  
 permalink: /BER_details/
 ---
+
+To go back to [main page](/home/)
 
 # Key results
 The 4 different experiments are outlining how the different BER bounds were tested is outlined here. All other dimensions were sampled from equivalent distributions.  The following table summarizes the key results with the least and most amount of samples. 
