@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Riley's Portfolio of Work
-permalink : /home/
+permalink: /home/
 ---
 
 <p align="left">
