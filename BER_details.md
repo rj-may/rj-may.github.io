@@ -29,7 +29,7 @@ This table demonstrates that as dimensionality increases the bounds become unrel
 For the poster presented at the University of Utah AI summit, you can download it here [poster.pdf.](https://github.com/user-attachments/files/20787933/poster_U_AI_summit.-.updated.pdf)
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/4295efb5-65cf-447f-a069-4efaf518d0ab" alt="Poster preview" width="200"/>
+ <img src="https://github.com/user-attachments/assets/4295efb5-65cf-447f-a069-4efaf518d0ab" alt="Poster preview" width="400"/>
  </p>
 
 
