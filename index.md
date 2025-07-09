@@ -29,7 +29,7 @@ Here are some of the projects I have been working on.
 [rj-may/BER_Bounds_Eval](https://github.com/rj-may/BER_Bounds_Eval)
 
 
-This is the repository for all the code for my research on an empirical evaluation of methods to bound Bayes error rate. Bayes error rate is the minimum classificaation error in a clasification problem. My research involved comparing different different estimation techniques (parametric and nonparametric) over simulated scenarios that varied dimensionality and distribution. 
+This is the repository for all the code for my research on an empirical evaluation of methods to bound Bayes error rate. Bayes error rate is the minimum classificaation error in a clasification problem. My research involved comparing different estimation techniques (parametric and nonparametric) over simulated scenarios that varied dimensionality and distribution. 
 
 The repository includes all the code to create the figures in the document and run all the simulations. The simulations were run over 500 Monte Carlo iterations for each experiment. Experiments were spread across 5 primary distribution pairs and 3 different dimensionalities (three, eight, and 15). 
 
