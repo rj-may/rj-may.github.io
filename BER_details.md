@@ -34,5 +34,4 @@ For the poster presented at the University of Utah AI summit, you can download i
 
 
 ## The paper
-
-The paper pending approval is here [thesis.pdf](https://github.com/user-attachments/files/20680357/thesis_pending.pdf)
+Here is the paper on USU's website [https://digitalcommons.usu.edu/etd2023/522/.](https://digitalcommons.usu.edu/etd2023/522/)
